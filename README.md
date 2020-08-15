@@ -3,9 +3,11 @@
 ## Introduction
 
 In this notebook I used Random Forest classifier and SHAP values to understand customers. Also, I was curious about what can be done in the next campaign to increase CVR (Conversion Rate). After conducting EDA, I got the following business questions:
-What kind of characteristics have people who placed a deposit?
-What kind of characteristics have people who did NOT place a deposit?
-Based on the available data, what can be done next time to increase CVR?
+1. What kind of characteristics have people who placed a deposit?
+2. What kind of characteristics have people who did NOT place a deposit?
+3. Based on the available data, what can be done next time to increase CVR?
+
+**More detailed explanation** for the code you can find in my blog post on Medium: [Random Forest classifier and SHAP: How to understand your customers and interpret a black box model?](https://medium.com/@aigerim.shopenova/random-forest-classifier-and-shap-how-to-understand-your-customers-and-interpret-a-black-box-model-6166d86820d9)
 
 ## Data
 I used a public [dataset](https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset/data) with results of Portugal bank marketing campaigns. Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit. If after all marking afforts client had agreed to place deposit - target variable marked 'yes', otherwise 'no'.
