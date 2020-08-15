@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this notebook I used Random Forest classifier and SHAP values to understand better customers and what can be done in the next campaign to increase CVR (Conversion Rate). After conducting EDA, I got the following business questions:
+In this notebook I used Random Forest classifier and SHAP values to understand customers. Also, I was curious about what can be done in the next campaign to increase CVR (Conversion Rate). After conducting EDA, I got the following business questions:
 What kind of characteristics have people who placed a deposit?
 What kind of characteristics have people who did NOT place a deposit?
 Based on the available data, what can be done next time to increase CVR?
