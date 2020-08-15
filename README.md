@@ -23,8 +23,6 @@ You need an installation of Python, plus the following libraries:
 * shap
 
 ## Main findings and answers to the business questions
-Let us answer the questions we placed after comnducting EDA.
-
 1) What kind of characteristics have people who placed a deposit?
 * last contact duration longer than 500 seconds
 * have euribor3m values 1 and 2
